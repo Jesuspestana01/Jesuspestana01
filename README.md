@@ -9,8 +9,17 @@
 
 # Front-end
 
+
 |<img height="30em" src="svg\html5.png"/>|<img height="30em" src="svg\css.png"/>|<img height="30em" src="svg\javascript.png"/>|<img height="30em" src="svg\react.png"/>|<img height="30em" src="svg\bootstrap.png"/>
 |--------|--------|--------|--------|--------|
+
+
+# Back-end
+
+
+|<img height="30em" src="svg\python.png"/>|<img height="30em" src="svg\flask.png"/>|<img height="30em" src="svg\sql-logo.png"/>|<img height="30em" src="svg\sqlalchemy.png"/>|<img height="30em" src="svg\postgresql_logo.png"/>|<img height="30em" src="svg\restapi.png"/>
+|--------|--------|--------|--------|--------|--------|
+
 
 ##
 
