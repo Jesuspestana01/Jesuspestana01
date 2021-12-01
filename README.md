@@ -9,8 +9,8 @@
 
 # Front-end
 
-|<img height="30em" src="svg\html5.png"/>|CSS|
-
+|<img height="30em" src="svg\html5.png"/>|<img height="30em" src="svg\css.png"/>|<img height="30em" src="svg\javascript.png"/>|<img height="30em" src="svg\react.png"/>|<img height="30em" src="svg\bootstrap.png"/>
+|--------|--------|--------|--------|--------|
 
 ##
 
