@@ -6,6 +6,7 @@
 - I'm currently working on new projects to challenge myself.
 - In the process of keep learning.
 - Currently learning Webpack and object oriented design patterns in Python.
+- Doing the 100 days of code challenge 🦾.
 
 
 [<img height ="15em" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw"> Linkedin</img>](https://www.linkedin.com/in/jesus-pestana-2b860b227/)
