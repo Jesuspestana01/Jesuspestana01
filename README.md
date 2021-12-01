@@ -10,14 +10,14 @@
 # Front-end
 
 
-|<img height="30em" src="svg\html5.png"/>|<img height="30em" src="svg\css.png"/>|<img height="30em" src="svg\javascript.png"/>|<img height="30em" src="svg\react.png"/>|<img height="30em" src="svg\bootstrap.png"/>
+|<img height="30em" src="svg\img\html5.png"/>|<img height="30em" src="svg\img\css.png"/>|<img height="30em" src="svg\img\javascript.png"/>|<img height="30em" src="svg\img\react.png"/>|<img height="30em" src="svg\img\bootstrap.png"/>
 |--------|--------|--------|--------|--------|
 
 
 # Back-end
 
 
-|<img height="30em" src="svg\python.png"/>|<img height="30em" src="svg\flask.png"/>|<img height="30em" src="svg\sql-logo.png"/>|<img height="30em" src="svg\sqlalchemy.png"/>|<img height="30em" src="svg\postgresql_logo.png"/>|<img height="30em" src="svg\restapi.png"/>
+|<img height="30em" src="svg\img\python.png"/>|<img height="30em" src="svg\img\flask.png"/>|<img height="30em" src="svg\img\sql-logo.png"/>|<img height="30em" src="svg\img\sqlalchemy.png"/>|<img height="30em" src="svg\img\postgresql_logo.png"/>|<img height="30em" src="svg\img\restapi.png"/>
 |--------|--------|--------|--------|--------|--------|
 
 
