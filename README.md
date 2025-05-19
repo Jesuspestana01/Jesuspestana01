@@ -9,7 +9,7 @@
 - Doing the 100 days of code challenge 🦾.
 
 
-[<img height ="15em" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw"> Linkedin</img>](www.linkedin.com/in/jpestana01)
+[<img height ="15em" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw"> Linkedin</img>](https://www.linkedin.com/in/jpestana01/)
 
 # Skills
 
