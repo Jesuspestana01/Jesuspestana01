@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! 👋 I'm Jesús Pestana</h1>
+<h1 align="center">Hello there! I'm Jesús Pestana</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-📫 How to reach me **jesuspestana77@gmail.com**
+How to reach me **jesuspestana77@gmail.com**
 
 ###
 
